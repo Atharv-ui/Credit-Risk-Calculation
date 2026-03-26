@@ -1,4 +1,4 @@
-# Credit-Risk-Calculation
+# EDA-repository
 # Credit Risk Prediction using Machine Learning
 
 ##  Project Overview
